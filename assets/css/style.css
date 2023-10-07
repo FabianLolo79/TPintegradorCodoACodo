@@ -7,4 +7,10 @@
 .color-green{
     color: #29A744;
 }
+.color-greenLight{
+    background-color: rgb(150, 201, 62);
+}
 
+.form-orador{
+    width: 80vw;
+}
